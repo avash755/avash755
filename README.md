@@ -35,21 +35,18 @@ I believe in writing clean code, learning through practice, and building solutio
 
 ### ⚡ Tech Stack
 
-<div align="center">
+**Frontend**
 
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Technologies" />
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)
 
-<h3>Backend & Database</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and Database Technologies" />
+**Backend & Database**
 
-<h3>Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" alt="Programming Languages" />
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)
 
-<h3>Development Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development Tools" />
+**Programming & Tools**
 
-</div>
+![Tools](https://skillicons.dev/icons?i=cpp,python,java,git,github,vscode,postman&theme=dark)
+
 ### 💡 Selected Projects
 
 | Project | Description | Technologies |
