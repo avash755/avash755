@@ -45,7 +45,7 @@ I believe in writing clean code, learning through practice, and building solutio
 
 **Programming & Tools**
 
-![Tools](https://skillicons.dev/icons?i=cpp,python,java,git,github,vscode,postman&theme=dark)
+![Tools](https://skillicons.dev/icons?i=cpp,python,c,git,github,vscode,postman&theme=dark)
 
 ### 💡 Selected Projects
 
