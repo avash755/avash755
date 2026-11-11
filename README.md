@@ -33,30 +33,23 @@ I believe in writing clean code, learning through practice, and building solutio
 - 😄 **Pronouns:** He/Him
 
 
-## ⚡ Tech Stack
+### ⚡ Tech Stack
 
 <div align="center">
 
-<p><strong>Frontend</strong></p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Technologies" />
 
-<br/><br/>
+<h3>Backend & Database</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and Database Technologies" />
 
-<p><strong>Backend & Database</strong></p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<h3>Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" alt="Programming Languages" />
 
-<br/><br/>
-
-<p><strong>Programming Languages</strong></p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java&theme=dark" />
-
-<br/><br/>
-
-<p><strong>Development Tools</strong></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<h3>Development Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development Tools" />
 
 </div>
-
 ### 💡 Selected Projects
 
 | Project | Description | Technologies |
