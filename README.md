@@ -34,17 +34,20 @@ I believe in writing clean code, learning through practice, and building solutio
 
 ### ⚡ Tech Stack
 
+<div align="center">
 **Frontend**
 
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)
-
+<br/>
 **Backend & Database**
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark)
-
+<br/>
 **Programming & Tools**
 
 ![Tools](https://skillicons.dev/icons?i=cpp,python,java,git,github,vscode,postman&theme=dark)
+
+</div>
 
 ### 💡 Selected Projects
 
