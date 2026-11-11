@@ -1,55 +1,64 @@
-
-<!--
-**avash755/avash755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,100:b91c1c&text=[Your%20Name]&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,100:b91c1c&text=EMTAYES%20ANWAR%20AVASH&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=60&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=EF4444&center=true&vCenter=true&width=520&lines=I+build+fast+and+clean+web+apps;MERN+Stack+Developer;Learning+DSA+%26+Competitive+Programming" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=EF4444&center=true&vCenter=true&width=550&lines=Building+useful+web+applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Focused+on+clean+code+and+problem-solving" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-b91c1c?style=for-the-badge&logo=googlechrome&logoColor=white)]([portfolio-link])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ef4444)]([linkedin-link])
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ef4444)](mailto:[your-email])
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-b91c1c?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ef4444)](https://www.linkedin.com/in/emtayesanwaravash/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ef4444)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-### 🔥 About Me
-- 💻 Full-stack developer who turns ideas into polished, scalable web apps
-- 🧠 Sharpening problem-solving with DSA and competitive programming
-- 🚀 Currently building: **[your current project]**
-- 📫 Open to freelance and full-time work
+### 👨‍💻 About Me
+
+I'm a web developer from **Khulna, Bangladesh**, focused on building practical, responsive, and user-friendly web applications.
+
+- 💻 Developing full-stack applications with the MERN stack.
+- ⚙️ Working with React, Node.js, Express, and MongoDB.
+- 🧠 Improving problem-solving skills through DSA and C++.
+- 🚀 Focused on writing clean code and building real-world projects.
+- 🤝 Open to freelance projects and development opportunities.
 
 ### ⚡ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,ts,tailwind,html,css,git,github,vscode,postman&theme=dark" />
-</p>
 
-### 🛠️ Featured Projects
-| Project | What it does | Stack |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgres,git,github,vscode,postman&theme=dark" />
+
+</div>
+
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
 |---|---|---|
-| [**CampusConnect**](https://github.com/USERNAME/CampusConnect) | Smart campus platform | React, Node, MongoDB |
-| [**StockFlow**](https://github.com/USERNAME/StockFlow) | Inventory & invoice dashboard | React, Node, MongoDB |
-| [**StudyFlow**](https://github.com/USERNAME/StudyFlow) | Study planner and tracker | React, Node, MongoDB |
-| [**ember-portfolio**](https://github.com/USERNAME/ember-portfolio) | My personal portfolio | React, Tailwind |
+| [**StudyFlow**](https://github.com/avash755/StudyFlow) | A gamified study management application with tasks, goals, schedules, and Pomodoro tools. | HTML, CSS, JavaScript, Node.js, Express, PostgreSQL |
+| [**ember-portfolio**](https://github.com/avash755/ember-portfolio) | My personal portfolio showcasing my development work and skills. | React, Tailwind CSS |
 
-### 📊 GitHub Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9" />
-</p>
+### 📊 GitHub Statistics
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:b91c1c,100:0d0d0d&section=footer" />
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=avash755&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=ef4444&icon_color=ef4444&text_color=c9d1d9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avash755&layout=compact&hide_border=true&bg_color=0d1117&title_color=ef4444&text_color=c9d1d9" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=avash755&theme=dark&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Building. Learning. Improving.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:b91c1c,100:0d0d0d&section=footer" width="100%" />
+
+</div>
