@@ -52,7 +52,6 @@ I believe in writing clean code, learning through practice, and building solutio
 | Project | Description | Technologies |
 |:---|:---|:---|
 | **StudyFlow** | A gamified study management platform featuring tasks, goals, schedules, and a Pomodoro timer. | HTML, CSS, JavaScript, Node.js, Express, PostgreSQL |
-| **Personal Portfolio** | A personal website showcasing my development projects, technical skills, and professional work. | React, JavaScript, Tailwind CSS |
 | **StockFlow** | An inventory and invoice management system designed to help small businesses manage their operations. | React, JavaScript, Tailwind CSS, Node.js, Express, Mongoose |
 | **CampusConnect** | A campus management platform designed to connect students and staff through useful digital services. | React, JavaScript, Tailwind CSS, Node.js, Express, MongoDB, Brevo |
 
